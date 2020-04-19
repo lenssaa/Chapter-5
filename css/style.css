@@ -60,3 +60,9 @@ div.main-content{
 a{
 	color: orange;
 }
+
+.flower-photo {
+	float: left;
+	padding: 16px;
+	padding-top: 30px;
+}
